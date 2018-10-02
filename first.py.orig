@@ -1,5 +1,9 @@
 import pprint
 
+<<<<<<< HEAD
+dict = {'a':3, 'b':4}
+=======
 dict = {'a':7, 'b':4}
+>>>>>>> branch1
 pprint.pprint(dict)
 print(dict)
