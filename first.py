@@ -1,5 +1,5 @@
 import pprint
 
-dict = {'a':6, 'b':4}
+dict = {'a':3, 'b':4}
 pprint.pprint(dict)
 print(dict)
